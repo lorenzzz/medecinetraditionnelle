@@ -15,8 +15,7 @@ body { }
 /* Fixed Topbar Navigation */
 body.top-navbar { padding-top: 60px; }
 body.admin-bar .navbar-fixed-top { top: 28px; }
-
-
+.navbar-inner { background-image:-webkit-linear-gradient(top,white,#F2F2F2); }
 
 /* ==========================================================================
    Content
